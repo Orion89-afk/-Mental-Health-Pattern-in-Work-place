@@ -193,15 +193,7 @@ All regression models were computed using **Excel’s Data Analysis Toolpak** on
 - **Mood swings** and **coping struggles** are statistically significant indicators of mental health history but explain little variance on their own.  
 - **Awareness/Interview performance** may reduce reported treatment-seeking (negative association) — this can reflect stigma, self-reliance, or social desirability bias.  
 - **Work interest / culture** (as operationalized here) did not significantly affect treatment-seeking.
-
-
-## 📁 Files to include in the repo (recommended)
-- `data/Mental Health Dataset.csv` (raw)  
-- `excel/Data_Cleaning.xlsx` (Power Query steps & transformations)  
-- `excel/Regression_Models.xlsx` (full regression outputs / ANOVA tables)  
-- `powerbi/Mental_Health_Dashboard.pbix` (Power BI report)  
-- `visuals/` (PNG screenshots of charts & regression tables)  
-
+- 
 
 ## 🧾 Author
 Joy Olabode 
