@@ -1,4 +1,6 @@
 # -Mental-Health-Pattern-in-Work-place
+
+![Image](https://github.com/user-attachments/assets/5ac817db-8d97-436a-99d6-348b00c8ce2a)
 Understanding the Factors that Affects Mental Health. This dataset records a global survey conducted to track trends in mental health. The data covers a range of variables such as levels of stress, depression, anxiety, subjective well-being, and use of mental health services. 
 # 🧠 Mental Health Data Analysis — Excel, Power Query & Power BI
 
