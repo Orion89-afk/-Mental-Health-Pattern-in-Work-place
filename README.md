@@ -205,7 +205,7 @@ All regression models were computed using **Excel’s Data Analysis Toolpak** on
 
 ## 🧾 Author
 Joy Olabode 
-📧 joyolabode89@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com) | 🔗 [GitHub](https://github.com/yourusername)
+📧 joyolabode89@gmail.com | 🔗 [LinkedIn] https://www.linkedin.com/in/joy-olabode-72a90b310? | 🔗 [GitHub] https://github.com/Orion89-afk
 
 
 
