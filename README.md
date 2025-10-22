@@ -126,7 +126,8 @@ All regression models were computed using **Excel’s Data Analysis Toolpak** on
 ### 🔁 Model 3 — Awareness, Stress, Family History, Work Culture → *Treatment-Seeking*
 **Purpose:** Identify which factors best explain whether someone seeks treatment (awareness/interview comfort, stress, family history, work interest/culture).
 
-**Model specification (OLS):**
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b166c7b-b972-44e5-81c2-cc3a98586d16" />
+
 
 
 ## 📊 Power BI Dashboard
@@ -139,13 +140,6 @@ All regression models were computed using **Excel’s Data Analysis Toolpak** on
 | **Family & Stress Page** | Stacked column chart showing effect strength; scatter plot highlighting clusters |
 | **Treatment Drivers Page** | Key Influencers visual + Lollipop chart ranking predictors |
 | **Insight Summary** | Narrative visuals summarizing “Who is most likely to seek help?” |
-
-### **Key Power BI Visuals Used**
-- **Clustered Bar Chart:** Regression coefficients comparison  
-- **Key Influencers Visual:** Automatically highlights strongest drivers  
-- **Funnel Chart:** Flow of population → stress → family history → treatment  
-- **Card Visuals:** R², F-value, and significance at a glance  
-- **Decomposition Tree:** Breakdown of mental health history contributors  
 
 
 ## 💡 Key Insights
